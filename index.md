@@ -4,8 +4,9 @@ title: Portfolio Home
 hide: true
 show_reading_time: false
 ---
+### Me, Myself, and Team
 
-Hi! My name is [Your Full Name]
+Hi! My name is Brayden Hartman
 
 ### Development Environment
 
